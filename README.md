@@ -1,4 +1,7 @@
 # WaveDrom-Examples
 
+## I2S
+
+![wavedrom](https://user-images.githubusercontent.com/6957368/144555503-6b2eca59-905e-4b83-9e6b-ee97754cd9d5.png)
 
 [Online Editor](https://wavedrom.com/editor.html?%7Bsignal%3A%20%5B%0A%20%20%7Bname%3A%20%27LRCLK%27%2C%20wave%3A%20%2710....%7C1....%7C0.%27%2C%20node%3A%20%27..A.....B.....C%27%7D%2C%20%20%0A%20%20%7Bname%3A%20%27DATA%27%2C%20wave%3A%20%27x92%3D%3D%3D%7C%3D9999%7C9%3D%27%2C%20data%3A%20%5B%27LSB%27%2C%20%27MSB%27%2C%20%27-1%27%2C%20%27-2%27%2C%20%27-3%27%2C%20%27LSB%27%2C%20%27MSB%27%2C%20%27-1%27%2C%20%27-2%27%2C%20%27-3%27%2C%20%27LSB%27%2C%20%27MSB%27%5D%7D%2C%0A%20%20%7Bname%3A%20%27SCLK%27%2C%20wave%3A%20%27p.Pp............%27%2C%20phase%3A%200.3%7D%2C%0A%20%20%5D%2C%0A%20%20edge%3A%5B%0A%09%27A%3C-%3EB%20Left%20channel%27%2C%0A%20%20%09%27B%3C-%3EC%20Right%20channel%27%0A%20%20%5D%2C%0A%20%20head%3A%7B%0A%20%20text%3A%27I2S%27%0A%20%20%7D%2C%0A%7D)
